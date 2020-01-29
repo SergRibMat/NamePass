@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NamePass</string>
+    <string name="password">Password</string>
+    <string name="email">Username</string>
+    <string name="strength">Strength: </string>
+    <string name="security">Security Level</string>
+    <string name="buttonText">Accept</string>
+
+
+</resources>
